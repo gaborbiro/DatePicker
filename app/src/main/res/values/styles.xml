@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DateStyle" parent="UIKit.TextAppearance.Heading.Medium">
+        <item name="android:textColor">@color/aubergine_80</item>
+    </style>
+
+    <style name="DisabledDateStyle" parent="UIKit.TextAppearance.Heading.Medium">
+        <item name="android:textColor">@color/black_60</item>
+    </style>
+
+    <style name="DayOfWeekStyle" parent="UIKit.TextAppearance.Body.Medium.Bold.LightGrey" />
+</resources>

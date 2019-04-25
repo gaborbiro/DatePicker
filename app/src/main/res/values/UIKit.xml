@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="anchovy_100">#8c9b9b</color>
+    <color name="anchovy_120">#707c7c</color>
+    <color name="anchovy_20">#e8ebeb</color>
+    <color name="anchovy_40">#d1d7d7</color>
+    <color name="anchovy_5">#f9fafa</color>
+    <color name="anchovy_60">#bac3c3</color>
+    <color name="anchovy_80">#a3afaf</color>
+    <color name="aubergine_100">#440063</color>
+    <color name="aubergine_120">#36004f</color>
+    <color name="aubergine_20">#dacce0</color>
+    <color name="aubergine_40">#b499c1</color>
+    <color name="aubergine_5">#f6f2f7</color>
+    <color name="aubergine_60">#8f66a1</color>
+    <color name="aubergine_80">#693382</color>
+    <color name="berry_100">#9c006d</color>
+    <color name="berry_120">#7d0057</color>
+    <color name="berry_120_alpha_50">#807d0057</color>
+    <color name="berry_20">#ebcce2</color>
+    <color name="berry_40">#d799c5</color>
+    <color name="berry_5">#faf2f8</color>
+    <color name="berry_60">#c466a7</color>
+    <color name="berry_80">#b0338a</color>
+    <color name="black_100">#2e3333</color>
+    <color name="black_120">#252929</color>
+    <color name="black_20">#d5d6d6</color>
+    <color name="black_40">#abadad</color>
+    <color name="black_5">#f5f5f5</color>
+    <color name="black_60">#828585</color>
+    <color name="black_80">#585c5c</color>
+    <color name="black_alpha_4">#0a000000</color>
+    <color name="black_alpha_8">#15000000</color>
+    <color name="chili_jam_100">#fb5058</color>
+    <color name="chili_jam_120">#c94046</color>
+    <color name="chili_jam_20">#fedcde</color>
+    <color name="chili_jam_40">#fdb9bc</color>
+    <color name="chili_jam_5">#fff6f7</color>
+    <color name="chili_jam_60">#fd969b</color>
+    <color name="chili_jam_80">#fc7379</color>
+    <color name="disabled">#E2E5E5</color>
+    <color name="green_100">#77bf2a</color>
+    <color name="green_120">#5f9922</color>
+    <color name="green_20">#e4f2d4</color>
+    <color name="green_40">#c9e5aa</color>
+    <color name="green_5">#f8fcf4</color>
+    <color name="green_60">#add97f</color>
+    <color name="green_80">#92cc55</color>
+    <color name="kelp_100">#007e8a</color>
+    <color name="kelp_120">#00656e</color>
+    <color name="kelp_20">#cce5e8</color>
+    <color name="kelp_40">#99cbd0</color>
+    <color name="kelp_5">#f2f9f9</color>
+    <color name="kelp_60">#66b2b9</color>
+    <color name="kelp_80">#3398a1</color>
+    <color name="mustard_100">#fabe00</color>
+    <color name="mustard_120">#c89800</color>
+    <color name="mustard_20">#fef2cc</color>
+    <color name="mustard_40">#fde599</color>
+    <color name="mustard_5">#fffcf2</color>
+    <color name="mustard_60">#fcd866</color>
+    <color name="mustard_80">#fbcb33</color>
+    <color name="orange_100">#ff8100</color>
+    <color name="orange_120">#cc6700</color>
+    <color name="orange_20">#ffe6cc</color>
+    <color name="orange_40">#ffcd99</color>
+    <color name="orange_5">#fff9f2</color>
+    <color name="orange_60">#ffb366</color>
+    <color name="orange_80">#ff9a33</color>
+    <color name="red_100">#ff483b</color>
+    <color name="red_100_alpha_50">#80ff483b</color>
+    <color name="red_120">#cc3a2f</color>
+    <color name="red_20">#ffdad8</color>
+    <color name="red_40">#ffb6b1</color>
+    <color name="red_5">#fff6f5</color>
+    <color name="red_60">#ff9189</color>
+    <color name="red_80">#ff6d62</color>
+    <color name="teal_100">#00ccbc</color>
+    <color name="teal_120">#00a396</color>
+    <color name="teal_120_alpha_50">#8000a396</color>
+    <color name="teal_20">#ccf5f2</color>
+    <color name="teal_40">#99ebe4</color>
+    <color name="teal_5">#f2fcfc</color>
+    <color name="teal_60">#66e0d7</color>
+    <color name="teal_80">#33d6c9</color>
+    <color name="text_green_110">#6BAC26</color>
+    <color name="text_orange_110">#E57400</color>
+    <color name="text_red_110">#E64135</color>
+    <color name="text_teal_110">#00b8a9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha_10">#1affffff</color>
+    <color name="white_alpha_50">#80FFFFFF</color>
+
+    <dimen name="text_size_body_medium">16sp</dimen>
+    <dimen name="text_size_body_small">14sp</dimen>
+    <dimen name="text_size_body_xsmall">12sp</dimen>
+    <dimen name="text_size_heading_large">40sp</dimen>
+    <dimen name="text_size_heading_medium">28sp</dimen>
+    <dimen name="text_size_heading_small">22sp</dimen>
+    <dimen name="text_size_heading_xlarge">60sp</dimen>
+    <dimen name="text_size_heading_xsmall">18sp</dimen>
+    <item name="tab_resting_text_color" type="id" />
+
+    <style name="UIKit.TextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/black_100</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body">
+        <item name="android:fontFamily">@font/ibm_plex_font_family</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium">
+        <item name="android:textSize">@dimen/text_size_body_medium</item>
+        <item name="android:lineSpacingExtra">2sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Bold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Bold.Green">
+        <item name="android:textColor">@color/text_green_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Bold.Grey">
+        <item name="android:textColor">@color/black_60</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Bold.LightGrey">
+        <item name="android:textColor">@color/black_40</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Bold.Orange">
+        <item name="android:textColor">@color/text_orange_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Bold.Red">
+        <item name="android:textColor">@color/text_red_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Bold.Teal">
+        <item name="android:textColor">@color/text_teal_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Bold.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Green">
+        <item name="android:textColor">@color/text_green_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Grey">
+        <item name="android:textColor">@color/black_60</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.LightGrey">
+        <item name="android:textColor">@color/black_40</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Orange">
+        <item name="android:textColor">@color/text_orange_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Red">
+        <item name="android:textColor">@color/text_red_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.Teal">
+        <item name="android:textColor">@color/text_teal_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Medium.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small">
+        <item name="android:textSize">@dimen/text_size_body_small</item>
+        <item name="android:lineSpacingExtra">2sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Bold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineSpacingExtra">4sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Bold.Green">
+        <item name="android:textColor">@color/text_green_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Bold.Grey">
+        <item name="android:textColor">@color/black_60</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Bold.LightGrey">
+        <item name="android:textColor">@color/black_40</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Bold.Orange">
+        <item name="android:textColor">@color/text_orange_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Bold.Red">
+        <item name="android:textColor">@color/text_red_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Bold.Teal">
+        <item name="android:textColor">@color/text_teal_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Bold.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Green">
+        <item name="android:textColor">@color/text_green_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Grey">
+        <item name="android:textColor">@color/black_60</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.LightGrey">
+        <item name="android:textColor">@color/black_40</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Orange">
+        <item name="android:textColor">@color/text_orange_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Red">
+        <item name="android:textColor">@color/text_red_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.Teal">
+        <item name="android:textColor">@color/text_teal_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.Small.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall">
+        <item name="android:textSize">@dimen/text_size_body_xsmall</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Bold.Green">
+        <item name="android:textColor">@color/text_green_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Bold.Grey">
+        <item name="android:textColor">@color/black_60</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Bold.LightGrey">
+        <item name="android:textColor">@color/black_40</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Bold.Orange">
+        <item name="android:textColor">@color/text_orange_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Bold.Red">
+        <item name="android:textColor">@color/text_red_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Bold.Teal">
+        <item name="android:textColor">@color/text_teal_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Bold.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Green">
+        <item name="android:textColor">@color/text_green_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Grey">
+        <item name="android:textColor">@color/black_60</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.LightGrey">
+        <item name="android:textColor">@color/black_40</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Orange">
+        <item name="android:textColor">@color/text_orange_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Red">
+        <item name="android:textColor">@color/text_red_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.Teal">
+        <item name="android:textColor">@color/text_teal_110</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Body.XSmall.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading">
+        <item name="android:fontFamily">@font/stratos_semibold</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.Large">
+        <item name="android:textSize">@dimen/text_size_heading_large</item>
+        <item name="android:lineSpacingExtra">1sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.Large.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.Medium">
+        <item name="android:textSize">@dimen/text_size_heading_medium</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.Medium.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.Small">
+        <item name="android:textSize">@dimen/text_size_heading_small</item>
+        <item name="android:fontFamily">@font/ibm_plex_font_family</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineSpacingExtra">-1sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.Small.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.XLarge">
+        <item name="android:textSize">@dimen/text_size_heading_xlarge</item>
+        <item name="android:lineSpacingExtra">10sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.XLarge.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.XSmall">
+        <item name="android:textSize">@dimen/text_size_heading_xsmall</item>
+        <item name="android:fontFamily">@font/ibm_plex_font_family</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineSpacingExtra">1sp</item>
+    </style>
+
+    <style name="UIKit.TextAppearance.Heading.XSmall.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

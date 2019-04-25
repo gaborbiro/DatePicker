@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:background="@drawable/date_background_selector"
+    android:clickable="true"
+    android:focusable="true"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+
+    <TextView
+        style="@style/DateStyle"
+        android:id="@+id/year_value"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/double_padding"
+        android:layout_width="wrap_content"
+        android:text="2019" />
+</RelativeLayout>

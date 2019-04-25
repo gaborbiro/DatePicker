@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea/*
+
+*.iml
+*.ipr
+*.iws
+classes/
+
+
+# Gradle
+.gradle/
+build/
+bin/
+
+#ant and other
+local.properties
+.DS_Store
+*~
+*.swp
+
+src/main/res/values/com_crashlytics_export_strings.xml
+
+.phraseapp.yml
+
+captures/
+debug.properties
+
+mock_server/resources/mock_setup.json
+
+android-common-app/

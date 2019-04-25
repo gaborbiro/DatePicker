@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/date_background_selector"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:gravity="center_horizontal"
+    android:layout_columnWeight="1"
+    android:layout_gravity="fill_horizontal"
+    android:layout_height="wrap_content"
+    android:layout_width="0dp">
+
+    <TextView
+        style="@style/DateStyle"
+        android:gravity="center_horizontal"
+        android:id="@+id/month_value"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/double_padding"
+        android:layout_width="wrap_content"
+        tools:text="Feb" />
+</RelativeLayout>

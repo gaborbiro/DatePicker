@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nex3z.flowlayout.FlowLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/flow_layout"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    app:flChildSpacing="auto"
+    app:flChildSpacingForLastRow="align"
+    app:flRowSpacing="0dp">
+
+    <include layout="@layout/list_item_year" />
+
+    <include layout="@layout/list_item_year" />
+
+    <include layout="@layout/list_item_year" />
+
+    <include layout="@layout/list_item_year" />
+
+    <include layout="@layout/list_item_year" />
+</com.nex3z.flowlayout.FlowLayout>
